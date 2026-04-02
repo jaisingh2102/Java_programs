@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main_ {
+public class Main_5 {
     public static void main(String[] args) {
         String str;
         char ch;
@@ -21,5 +21,6 @@ public class Main_ {
         }
 
         System.out.println("Occurrence of '" + ch + "' is: " + count);
+        sc.close();
     }
 }
