@@ -1,3 +1,4 @@
+// 3. Write a program to find the greatest of two numbers.
 import java.util.Scanner;
 
 public class conditionIF_ELSE {
