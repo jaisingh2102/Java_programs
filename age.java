@@ -1,3 +1,4 @@
+// 2. Write a program to check whether a person is an adult or not.
 import java.util.Scanner;
 public class age {
     public static void main(String[] args) {
