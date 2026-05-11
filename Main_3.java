@@ -1,3 +1,4 @@
+// Java program to demonstrate the use of final variable
 class Demo {
     final int x = 10;
 
