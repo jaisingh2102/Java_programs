@@ -1,3 +1,4 @@
+// Java program to print a pattern of stars
 import java.util.*;
 public class pattern1 {
     public static void main(String[] args)
