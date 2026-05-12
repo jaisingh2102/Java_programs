@@ -1,3 +1,4 @@
+// Java program to illustrate the concept of constructor
 import java.util.Scanner;
 public class month {
     public static void main(String[] args)
