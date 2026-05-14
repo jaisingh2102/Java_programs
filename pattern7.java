@@ -1,4 +1,4 @@
-
+// 1 2 3 4 5
 import java.util.*; 
 public class pattern7 {
     public static void main(String[] args)
