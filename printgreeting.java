@@ -1,3 +1,4 @@
+// This program takes an integer input from the user and prints a greeting based on the value of the input.
 import java.util.Scanner;
 public class printgreeting {
    public static void main(String[]args)
