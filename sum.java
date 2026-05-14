@@ -1,3 +1,4 @@
+// This program takes two integer inputs from the user, calculates their sum, and prints the result.
 import java.util.Scanner;
 public class sum {
     public static void main(String[] args) {
