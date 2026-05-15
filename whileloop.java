@@ -1,3 +1,5 @@
+
+// this program is to demonstrate the use of while loop in java
 import java.util.*;
 public class whileloop {
     public static void main(String[] args)
