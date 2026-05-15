@@ -1,3 +1,4 @@
+// this program is to print the table of given number
 import java.util.Scanner;
 public class table {
     public static void main(String [] args)
