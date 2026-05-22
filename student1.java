@@ -1,3 +1,4 @@
+// A class with a static member
 class Student {
     int id;
 
