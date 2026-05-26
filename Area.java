@@ -1,3 +1,4 @@
+//This program calculates the area of a circle given its radius.
 import java.util.Scanner;
 public class Area{
     public static void main(String[] args)
