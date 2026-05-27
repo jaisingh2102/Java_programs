@@ -1,3 +1,4 @@
+// This program demonstrates the use of arrays in Java. It initializes an array of integers with specific values and then iterates through the array to print each element.
 class arrayexplanation{
     public static void main(String[] args)
     {
