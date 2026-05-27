@@ -1,3 +1,4 @@
+// This program calculates the average of three numbers entered by the user. It prompts the user to input three numbers, computes their average, and then displays the result.
 import java.util.Scanner;
 
 public class average{
