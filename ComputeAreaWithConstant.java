@@ -1,3 +1,4 @@
+// This program calculates the area of a circle using a constant value for PI. It prompts the user to enter the radius of the circle, computes the area using the formula A = πr^2, and then displays the result.
 import java.util.Scanner;
 public class ComputeAreaWithConstant {
     public static void main(String[] args)
