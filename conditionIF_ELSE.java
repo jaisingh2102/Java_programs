@@ -1,4 +1,4 @@
-// 3. Write a program to find the greatest of two numbers.
+// This program determines the greatest of two numbers entered by the user. It prompts the user to input two numbers, compares them, and then displays which one is greater.
 import java.util.Scanner;
 
 public class conditionIF_ELSE {
