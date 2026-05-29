@@ -1,4 +1,4 @@
-// super keyword example
+// super keyword example using constructor and method
 class Animal {
     int x = 10;
 
