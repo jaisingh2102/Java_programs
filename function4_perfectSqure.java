@@ -1,3 +1,4 @@
+//write a function to check if the given number is perfect square or not
 import java.util.*;
 public class function4_perfectSqure {
     public static boolean isperfectsqure(int a)
