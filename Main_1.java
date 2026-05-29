@@ -1,4 +1,4 @@
-// write a program to demonstrate constructor overloading
+// write a program to demonstrate constructor overloading using student class
 class student
 {
     int id;
