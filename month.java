@@ -1,9 +1,9 @@
-// Java program to illustrate the concept of constructor
+// This code defines a class named 'month' that prompts the user to enter a month number (1-12) and then uses a switch statement to print the corresponding month name. If the user enters a number outside the range of 1-12, it prints "invalid choice". The program uses a Scanner to read user input and closes the scanner at the end to prevent resource leaks.
 import java.util.Scanner;
 public class month {
     public static void main(String[] args)
     {
-System.out.println("enter month name");
+System.out.println("enter month number (1-12)");
 Scanner sc = new Scanner(System.in);
 int ch = sc.nextInt();
 switch(ch)
