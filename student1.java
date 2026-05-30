@@ -1,4 +1,4 @@
-// A class with a static member
+// This code defines a class named 'Student' with an integer field 'id' and a constructor to initialize it. The class also has a method 'display' that prints the value of 'id'. In the 'student1' class, an instance of 'Student' is created with an id of 101, and the 'display' method is called to show the id on the console.
 class Student {
     int id;
 
