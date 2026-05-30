@@ -1,4 +1,4 @@
-// Java program to count the occurrence of a character in a string
+// This code counts the occurrences of a specific character in a given string. It prompts the user to enter a string and a character, then iterates through the string to count how many times the specified character appears. Finally, it prints the count to the console.
 import java.util.Scanner;
 
 public class Main_5 {
