@@ -1,4 +1,4 @@
-// Java program to demonstrate the use of final variable
+// This code demonstrates the use of a final variable in Java. The variable 'x' is declared as final, which means its value cannot be changed once it has been assigned. The 'display' method attempts to change the value of 'x', which would result in a compile-time error if uncommented. The program will print the value of 'x' when executed.
 class Demo {
     final int x = 10;
 
