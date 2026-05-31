@@ -1,4 +1,4 @@
-// this program is to print the table of given number
+// this program is to print the table of given number and take input from user and print the table of that number using for loop and close the scanner at the end to prevent resource leaks.
 import java.util.Scanner;
 public class table {
     public static void main(String [] args)
