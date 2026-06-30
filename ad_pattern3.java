@@ -1,3 +1,4 @@
+// print the following pattern
 import java.util.*;
 public class ad_pattern3 {
  public static void main(String[] args)
